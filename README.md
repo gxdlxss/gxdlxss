@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Godless 👋
 
-<!--
-**gxdlxss/gxdlxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+public class Godless {
+    public string name;
+    public string[] languages;
+    public string favourite_lang;
+    public string currently_learning;
+    public string current_company;
+    public int age;
+    public string study_at;
 
-Here are some ideas to get you started:
+    public Godless {
+        this.name = "Godless";
+        this.languages = {"C#", "C++", "C", "Go"};
+        this.favourite_lang = "C#";
+        this.currently_learning = "Go";
+        this.current_company = "Recovery Toolbox Inc."
+        this.age = 18;
+        this.study_at = "Central University'28";
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public void welcome(){
+        Console.WriteLine($"Hi, I'm {this.name}. I've lost my god");
+    }
+}
+
+Godless me = new Godless();
+me.welcome();
+```
