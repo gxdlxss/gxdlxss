@@ -21,7 +21,7 @@ public class Godless {
     }
 
     public void welcome(){
-        Console.WriteLine($"Hi, I'm {this.name}. I've lost my god");
+        Console.WriteLine($"Hi, I'm {name}. I've lost my god");
     }
 }
 
