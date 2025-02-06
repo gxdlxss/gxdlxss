@@ -1,6 +1,6 @@
 ## Hi, I'm Godless 👋
 
-```
+```csharp
 public class Godless {
     public string name;
     public string[] languages;
