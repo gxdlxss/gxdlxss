@@ -1,30 +1,38 @@
 ## Hi, I'm Godless 👋
 
-```csharp
-public class Godless {
-    public string name;
-    public string[] languages;
-    public string favourite_lang;
-    public string currently_learning;
-    public string current_company;
-    public int age;
-    public string study_at;
+```Go
+package main
 
-    public Godless {
-        this.name = "Godless";
-        this.languages = {"C#", "C++", "C", "Go"};
-        this.favourite_lang = "C#";
-        this.currently_learning = "Go";
-        this.current_company = "Recovery Toolbox Inc."
-        this.age = 18;
-        this.study_at = "Central University'28";
-    }
+import "fmt"
 
-    public void welcome(){
-        Console.WriteLine($"Hi, I'm {name}. I've lost my god");
-    }
+type Godless struct {
+	Name              string
+	Languages         []string
+	FavouriteLang     string
+	CurrentlyLearning string
+	CurrentCompany    string
+	Age               int
+	StudyAt           string
 }
 
-Godless me = new Godless();
-me.welcome();
+func NewGodless() *Godless {
+	return &Godless{
+		Name:              "Godless",
+		Languages:         []string{"C#", "C++", "C", "Go"},
+		FavouriteLang:     "Go",
+		CurrentlyLearning: "Go",
+		CurrentCompany:    "Recovery Toolbox Inc.",
+		Age:               18,
+		StudyAt:           "Central University'28/MIPT'28",
+	}
+}
+
+func (g *Godless) Welcome() {
+	fmt.Printf("Hi, I'm %s. I've lost my god\n", g.Name)
+}
+
+func main() {
+	me := NewGodless()
+	me.Welcome()
+}
 ```
