@@ -24,7 +24,7 @@ func NewGodless() *Godless {
 		CurrentlyLearning: "Go",
 		CurrentCompany:    "Recovery Toolbox Inc.",
 		Age:               21,
-		StudyAt:           "Central University'28/MIPT'28",
+		StudyAt:           "HSE'27",
 		Resume:            "gxdlxsss.ru",
 	}
 }
