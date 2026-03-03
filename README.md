@@ -13,6 +13,7 @@ type Godless struct {
 	CurrentCompany    string
 	Age               int
 	StudyAt           string
+	Resume            string
 }
 
 func NewGodless() *Godless {
@@ -24,6 +25,7 @@ func NewGodless() *Godless {
 		CurrentCompany:    "Recovery Toolbox Inc.",
 		Age:               18,
 		StudyAt:           "Central University'28/MIPT'28",
+		Resume:            "gxdlxsss.ru",
 	}
 }
 
