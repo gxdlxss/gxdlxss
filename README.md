@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/logo.png" alt="Godless logo" width="120"/>
+
 # Godless
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=no+gods+%C2%B7+no+masters;i've+lost+my+god;Middle+Golang+Developer" alt="Typing SVG" />
@@ -94,14 +96,14 @@ func NewGodless() *Godless {
 
 ### Проекты
 
-**[SquadFlow](https://squad-flow.com)**
-Админ-панель для Squad-серверов: управление сервером и игроками, RCON-команды, логи в реальном времени, интеграции с Discord.
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/file2.png" alt="SquadFlow logo" width="40" align="left"/>&nbsp;**[SquadFlow](https://squad-flow.com)**
+<br>Админ-панель для Squad-серверов: управление сервером и игроками, RCON-команды, логи в реальном времени, интеграции с Discord.
 
-**[Majestic Family Bot](https://family-bot.ru/)**
-Боты для Discord и Telegram для игровых сообществ: модульная архитектура, рекрутинг, бонусная система, магазин бонусов, тиры, розыгрыши, дни рождения, отслеживание неактива, инфо-панели.
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_1.png" alt="Majestic Family Bot logo" width="40" align="left"/>&nbsp;**[Majestic Family Bot](https://family-bot.ru/)**
+<br>Боты для Discord и Telegram для игровых сообществ: модульная архитектура, рекрутинг, бонусная система, магазин бонусов, тиры, розыгрыши, дни рождения, отслеживание неактива, инфо-панели.
 
-**[RDP Protector](https://github.com/gxdlxss/rdp_protector_go)**
-Мультитенант SaaS: Go control plane, Windows-агент, кабинет на React + TypeScript. mTLS-энроллмент, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2.png" alt="RDP Protector logo" width="40" align="left"/>&nbsp;**[RDP Protector](https://github.com/gxdlxss/rdp_protector_go)**
+<br>Мультитенант SaaS: Go control plane, Windows-агент, кабинет на React + TypeScript. mTLS-энроллмент, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
 
 ---
 
@@ -109,10 +111,10 @@ func NewGodless() *Godless {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gxdlxss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=gxdlxss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gxdlxss&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxdlxss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gxdlxss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
