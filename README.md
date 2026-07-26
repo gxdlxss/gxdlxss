@@ -106,16 +106,8 @@ func NewGodless() *Godless {
 
 ---
 
-### GitHub статистика
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=gxdlxss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gxdlxss&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gxdlxss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
+GitHub статистика
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gxdlxss&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gxdlxss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> </div>
 
 ---
 
