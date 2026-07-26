@@ -64,7 +64,6 @@ func NewGodless() *Godless {
 </div>
 
 Любимый язык: Go
-Сейчас изучаю: Go (углублённо)
 
 ---
 
