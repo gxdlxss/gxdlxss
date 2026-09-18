@@ -94,7 +94,7 @@ func NewGodless() *Godless {
 <img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-2.png" alt="SSH Protector logo" width="40" align="left"/>&nbsp;**[SSH Protector](https://sshprotector.com)**
 <br>Мультитенант SaaS: Go control plane, Linux-агент, кабинет на React + TypeScript. Защита SSH и FTP от брутфорса, баны подсетей, общая база угроз, mTLS-энроллмент, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
 
-<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-1.png" alt="Sentinel logo" width="40" align="left"/>&nbsp;**[Sentinel](https://servers-sentinel.com)**
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-11.png" alt="Sentinel logo" width="40" align="left"/>&nbsp;**[Sentinel](https://servers-sentinel.com)**
 <br>Мультитенант SaaS для мониторинга серверов: Go control plane, агенты для Linux и Windows, кабинет на React + TypeScript. Метрики и их история, uptime- и API-проверки с SLA, алерты в email / Telegram / Slack / webhook, статус-страницы, биллинг (PayPro / YooKassa / Cryptomus).
 
 <img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_1.png" alt="Majestic Bots logo" width="40" align="left"/>&nbsp;**[Majestic Bots](https://majestic-bots.ru)**
