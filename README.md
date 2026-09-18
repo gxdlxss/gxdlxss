@@ -85,20 +85,20 @@ func NewGodless() *Godless {
 
 ### Проекты
 
-<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/file2.png" alt="SquadFlow logo" width="40" align="left"/>&nbsp;**[SquadFlow](https://squad-flow.com)**
-<br>Админ-панель для Squad-серверов: управление сервером и игроками, RCON-команды, логи в реальном времени, интеграции с Discord.
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-1.png" alt="Karma logo" width="40" align="left"/>&nbsp;**[Karma](https://karma-verdict.com)**
+<br>Мультитенант SaaS: Go control plane, клиентский JS-тег, кабинет на React + TypeScript. Антибот-защита сайтов, вердикты по сессиям на клиентской телеметрии, общий блеклист известных ботов, увод на зеркало, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
 
-<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_1.png" alt="Majestic Family Bot logo" width="40" align="left"/>&nbsp;**[Majestic Family Bot](https://family-bot.ru/)**
-<br>Боты для Discord и Telegram для игровых сообществ: модульная архитектура, рекрутинг, бонусная система, магазин бонусов, тиры, розыгрыши, дни рождения, отслеживание неактива, инфо-панели.
-
-<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-1.png" alt="Sentinel logo" width="40" align="left"/>&nbsp;**[Sentinel](https://servers-sentinel.com)**
-<br>Мультитенант SaaS для мониторинга серверов: Go control plane, агенты для Linux и Windows, кабинет на React + TypeScript. Метрики и их история, uptime- и API-проверки с SLA, алерты в email / Telegram / Slack / webhook, статус-страницы, биллинг (PayPro / YooKassa / Cryptomus).
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2.png" alt="RDP Protector logo" width="40" align="left"/>&nbsp;**[RDP Protector](https://rdpprotector.com)**
+<br>Мультитенант SaaS: Go control plane, Windows-агент, кабинет на React + TypeScript. mTLS-энроллмент, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
 
 <img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-2.png" alt="SSH Protector logo" width="40" align="left"/>&nbsp;**[SSH Protector](https://sshprotector.com)**
 <br>Мультитенант SaaS: Go control plane, Linux-агент, кабинет на React + TypeScript. Защита SSH и FTP от брутфорса, баны подсетей, общая база угроз, mTLS-энроллмент, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
 
-<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2.png" alt="RDP Protector logo" width="40" align="left"/>&nbsp;**[RDP Protector](https://rdpprotector.com)**
-<br>Мультитенант SaaS: Go control plane, Windows-агент, кабинет на React + TypeScript. mTLS-энроллмент, TOTP MFA, RBAC, биллинг (PayPro / YooKassa / Cryptomus).
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_2-1.png" alt="Sentinel logo" width="40" align="left"/>&nbsp;**[Sentinel](https://servers-sentinel.com)**
+<br>Мультитенант SaaS для мониторинга серверов: Go control plane, агенты для Linux и Windows, кабинет на React + TypeScript. Метрики и их история, uptime- и API-проверки с SLA, алерты в email / Telegram / Slack / webhook, статус-страницы, биллинг (PayPro / YooKassa / Cryptomus).
+
+<img src="https://raw.githubusercontent.com/gxdlxss/gxdlxss/main/%D0%A4%D0%B0%D0%B9%D0%BB_1.png" alt="Majestic Bots logo" width="40" align="left"/>&nbsp;**[Majestic Bots](https://majestic-bots.ru)**
+<br>Экосистема ботов и сайтов для Majestic RP (бренды [majestic-bots.ru](https://majestic-bots.ru) и [russia-online-bots.ru](https://russia-online-bots.ru)). Discord-бот семьи на Go (discordgo) + MongoDB: рекрут, дни рождения, сборы, розыгрыши, тир-ап, temp-войсы, видеоуведомления, статус серверов, статистика — с админ-панелью (Go + Next.js). Статистика в стиле HLTV ([maj-hltv.ru](https://maj-hltv.ru), [russia-online-hltv.ru](https://russia-online-hltv.ru)): Go-парсер официального API в Mongo (арена, войны семей, капты, рейтинги) и веб на Vite + React 19 с SSR-пререндером. Мониторинг жалоб на [forum.majestic-rp.ru](https://forum.majestic-rp.ru): три Go-сервиса, обход антибота ReAct через headless Chromium (go-rod), уведомления в Discord и Telegram. Лендинги на Next.js 15 + React 19.
 
 ---
 
